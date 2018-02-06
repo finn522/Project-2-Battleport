@@ -18,7 +18,7 @@ Pygame project made during the first year of the Computer Science programme at t
 <table>
     <tr>
         <td>
-            <img alt="Full Metal Jacket PowerUp" src="Fmj/`Question.png">
+            <img alt="Full Metal Jacket PowerUp" src="Battleport/FMJ.png">
         </td>
         <td>
             <img alt="Game Field" src="Battleport/Speelbord.png">
